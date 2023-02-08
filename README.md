@@ -47,7 +47,7 @@
 
 > You can see a live demo via the link bellow.
 
-- [Live Demo Link](https://serengia.github.io/leaderboard-project--gitflow/dist)
+- [Live Demo Link](https://Nezerwa.github.io/leaderboard-project/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,11 +77,10 @@ npm start
 
 ## Author <a name="author"></a>
 
-👤 **James Serengia**
+👤 **Nezerwa Eligrand**
 
-- GitHub: [@githubhandle](https://github.com/serengia)
-- Twitter: [@twitterhandle](https://twitter.com/JamesSerengia)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/james-serengia)
+- GitHub: [@githubhandle](https://github.com/Nezerwa)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/eligrand-nezerwa)
 
 <!-- FUTURE FEATURES -->
 
