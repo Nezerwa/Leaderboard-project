@@ -1,8 +1,6 @@
 import gameId, { API_URL } from "../globals.js";
 
 const API_FULL_URL = `${API_URL}/${gameId}/scores`;
-
-// eslint-disable-next-line consistent-return
 const getData = async () => {
   try {
     const res = await fetch(API_FULL_URL);
@@ -12,7 +10,6 @@ const getData = async () => {
 
     return data;
   } catch (error) {
-    // eslint-disable-next-line no-console
     console.log(error);
   }
 };
@@ -28,10 +25,7 @@ export const postData = async (formData) => {
     });
 
     if (!res.ok) throw new Error("Something went wrong");
-
-    // const formattedResult = await res.json();
   } catch (error) {
-    // eslint-disable-next-line no-console
     console.log(error);
   }
 };
