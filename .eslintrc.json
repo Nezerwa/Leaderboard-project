@@ -24,6 +24,8 @@
     "arrow-body-style": "off",
     "quotes": "off",
     "linebreak-style": "off",
+    "consistent-return" : "off",
+    "no-console" : "off",
     "class-methods-use-this": "off",
     "indent": "off"
   },
