@@ -26,6 +26,7 @@ footer {
 h1 {
   font-size: 3.6rem;
   margin-bottom: 2rem;
+  margin-left: -6.5rem;
 }
 
 .row {
@@ -97,6 +98,18 @@ main {
 
 .submit-button {
   align-self: flex-end;
+}
+
+.message {
+  font-size: 1.6rem;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: tomato;
 }
 
 @media (max-width: 900px) {
