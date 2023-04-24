@@ -49,7 +49,7 @@
 
 > You can see a live demo via the link bellow.
 
-- [Live Demo Link](https://Nezerwa.github.io/leaderboard-project/dist)
+- [Live Demo Link](https://effulgent-semifreddo-f1404d.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
